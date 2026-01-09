@@ -77,3 +77,18 @@ Volume can be adjusted using the on-screen slider.
 ### Run
 ```bash
 mvn clean javafx:run
+
+
+🧠 What This Project Demonstrates
+
+Strong Java fundamentals
+
+Real-time rendering and physics systems
+
+Procedural graphics and animation
+
+Audio synthesis and threading
+
+Game-state architecture and input handling
+
+Building complete, shippable software from scratch
