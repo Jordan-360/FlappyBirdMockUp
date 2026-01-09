@@ -67,19 +67,7 @@ This project demonstrates **real-time rendering, physics simulation, procedural 
 Volume can be adjusted using the on-screen slider.
 
 ---
-
-## ▶️ Running the Project
-
-### Prerequisites
-- Java **17** (recommended)
-- Maven
-
-### Run
-```bash
-mvn clean javafx:run
-
-
-🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 Strong Java fundamentals
 
@@ -92,3 +80,16 @@ Audio synthesis and threading
 Game-state architecture and input handling
 
 Building complete, shippable software from scratch
+
+
+## ▶️ Running the Project
+
+### Prerequisites
+- Java **17** (recommended)
+- Maven
+
+### Run
+```bash
+mvn clean javafx:run
+
+
